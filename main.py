@@ -39,5 +39,3 @@ if __name__ == '__main__':
     else:
         print('wrong amount of data')
         sys.exit(2)
-
-
